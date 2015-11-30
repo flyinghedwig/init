@@ -1,0 +1,74 @@
+.title
+{
+	color:black;
+	font-size: 20px;
+}
+
+.text
+{
+	color: black;
+	font-size: 15px;
+}
+
+.description
+{
+	color:black;
+	font-size:15px;
+	/*padding-left: 10px;*/
+	/*It is a descriptioin*/
+	background-color: gray;
+}
+
+.image
+{
+	width: 10px;
+	position: relative;
+	left: 10px;
+}
+
+.chart
+{
+	width: 120px;
+	height: 120px;
+	position: relative;
+}
+
+.charttt
+{
+	width: 150px;
+	height: 150px;
+	position: relative;
+}
+
+.circ {
+    stroke: purple; 
+    fill: transparent;
+    stroke-width: 5;
+}
+
+.arrow1{
+  width: 0px;
+  height:0px;
+  line-height: 0px;
+  border-width: 50px 50px 0;
+  border-style: solid dashed dashed dashed;
+  border-color: gray;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  position: absolute;
+  top:6px;
+  left:15px;
+}
+.arrow2{
+  width: 0px;
+  height:0px;
+  line-height: 0px;
+  border-width: 50px 50px 0;
+  border-style: solid dashed dashed dashed;
+  border-color: #007998;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  position: absolute;
+
+}
+
